@@ -1,0 +1,29 @@
+/* add your CSS here */
+
+.container {
+    width: 310px;
+    background-color: pink;
+    border: 5px solid orange;
+    margin: 5px;
+    padding: 5px;
+}
+
+
+
+.interesting {
+  font-style: italic;
+}
+
+.border {
+  border-style: double;
+  border-width: thin;
+  border-color: black;
+  margin: 2px;
+  padding: 2px;
+}
+
+
+
+.imgborder {
+  border: 2px solid black;
+}
